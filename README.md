@@ -1,4 +1,13 @@
-# crypto-currencies-tracker
+# Crypto Currencies Tracker
+
+<img src="https://image.ibb.co/cQJGBc/Preview_Image.jpg" alt="Crypto currencies Tracker" title="Crypto currencies Tracker" border="0" width="100%">
+
+<br />
+<a href="https://codecanyon.net/item/crypto-currency-tracker-prices-charts-news-icos-info-and-more/21588008">
+ Get this project from here.
+</a>
+<br />
+
 Crypto Currency Tracker provides real-time crypto coins prices, admin panel, ads, latest crypto news, ICO’s Info and much more.
 
 Track the prices of 1500+ Crypto Currencies like Bitcoin, Ethereum, Litecoin, Ripple etc.
@@ -13,7 +22,7 @@ As well as it provides rich social snippets for sharing at Facebook and Twitter,
 
 It is well documented and on top of all, it is backed by excellent developers and 24/7 customer support.
 
- Website Top Features
+ # Website Top Features
 
     1500+ cryptocurrencies
     Live coin watch
@@ -41,9 +50,9 @@ It is well documented and on top of all, it is backed by excellent developers an
     Fast, user friendly and responsive layout
     SEO friendly
 
-Admin Panel Features
+# Admin Panel Features
 
-    Select home page from any available website pages, (like you can select website dashboard as a home page, live coin watch page or some other page)
+    Select home page from any available website pages
     Directly manage site + admin settings
     Manage ICO’s
     Manage Featured ICO’s and their affiliates
@@ -60,6 +69,8 @@ Admin Panel Features
     Manage google adsense ads
     Manage google analytics
 
- Upcoming Release 
+ # Upcoming Release 
  
- Check here for latest updates: https://codecanyon.net/item/crypto-currency-tracker-prices-charts-news-icos-info-and-more/21588008
+<a href="https://codecanyon.net/item/crypto-currency-tracker-prices-charts-news-icos-info-and-more/21588008">
+ Check here for the latest updates.
+</a>
